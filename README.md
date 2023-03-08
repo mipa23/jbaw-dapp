@@ -9,7 +9,7 @@
 [Faucet](https://faucets.chain.link/)
 
 3. Open DApp <br />
-[MyWallet-DApp](https://mipa23.github.io/JBAW/)
+[jbaw-dapp](https://mipa23.github.io/JBAW/)
 
 ## Smart Contract
 
